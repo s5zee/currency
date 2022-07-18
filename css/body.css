@@ -1,5 +1,11 @@
-
 .body {
     font-family: 'Lato', sans-serif;
     margin: 20px;
+    max-width: 2000px;
+    height: 965px;
+    background-image: url("../images/john-mcarthur-ROQzKIAdY78-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
 }
